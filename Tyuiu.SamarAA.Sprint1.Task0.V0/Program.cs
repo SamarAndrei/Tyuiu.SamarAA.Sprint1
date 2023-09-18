@@ -12,6 +12,7 @@ namespace Tyuiu.SamarAA.Sprint1.Task0.V18
     {
         static void Main(string[] args)
         {
+
             DataService ds = new DataService();
 
             Console.Title = "Спринт #1 | Выполнил: Самар А. С. | ИИПб-23-3";
