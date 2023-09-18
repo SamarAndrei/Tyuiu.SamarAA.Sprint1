@@ -14,6 +14,7 @@ namespace Tyuiu.SamarAA.Sprint1.Task0.V18.Test
             DataService ds = new DataService();
             var res = ds.Calculate();
             Assert.AreEqual(3, res);
+
         }
     }
 }
